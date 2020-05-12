@@ -1,0 +1,9 @@
+name: GenBuckets
+author: Drew
+main: gb\Loader
+api: 3.9.0
+version: 1.0.6
+commands:
+  gbucket:
+    default: true
+    permission: gb.cmd

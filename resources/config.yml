@@ -1,0 +1,17 @@
+form-title: "Shop"
+form-genbucket: "GenBucket"
+form-chunkbuster: "ChunkBuster"
+
+error-cannot-afford: "You cannot afford this item!"
+error-claim: "You must be in your claim to use this item!"
+
+item-chunkbuster-price: 250
+item-chunkbuster: "BUCKET"
+item-chunkbuster-name: "ChunkBuster"
+#Radius of how much the chunk buster will destroy
+item-chunkbuster-radius: 8
+
+item-genbucket-price: 250
+item-genbucket: "BUCKET"
+item-genbucket-name: "GenBucket"
+item-genbucket-placed: "COBBLESTONE"
